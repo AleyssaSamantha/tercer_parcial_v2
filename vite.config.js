@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: '/tercer_parcial_v2/'
+  base: '/tercer_parcial_v2/',
 })

@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom'
 
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename='/tercer_parcial/'>
+  <BrowserRouter basename='/tercer_parcial_v2/'>
     <Navegar />
     <App />
   </BrowserRouter>,
